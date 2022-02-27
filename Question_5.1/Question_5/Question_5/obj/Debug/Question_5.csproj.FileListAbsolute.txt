@@ -1,0 +1,7 @@
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\bin\Debug\Question_5.exe.config
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\bin\Debug\Question_5.exe
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\bin\Debug\Question_5.pdb
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\obj\Debug\Question_5.csprojAssemblyReference.cache
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\obj\Debug\Question_5.csproj.CoreCompileInputs.cache
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\obj\Debug\Question_5.exe
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_5\Question_5\Question_5\obj\Debug\Question_5.pdb
