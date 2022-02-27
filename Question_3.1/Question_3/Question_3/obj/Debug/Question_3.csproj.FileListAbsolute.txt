@@ -1,0 +1,10 @@
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\bin\Debug\Question_3.exe.config
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\bin\Debug\Question_3.exe
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\bin\Debug\Question_3.pdb
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.csprojAssemblyReference.cache
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.Form1.resources
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.Properties.Resources.resources
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.csproj.GenerateResource.cache
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.csproj.CoreCompileInputs.cache
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.exe
+C:\Users\Riedhwaan\Desktop\201813157_Riedhwaan_Karriem_Programming_3A\Question_3\Question_3\Question_3\obj\Debug\Question_3.pdb
